@@ -83,7 +83,8 @@
 
 ## App video:
 
-[<img width="400" alt="video_android" src="https://user-images.githubusercontent.com/52885580/154802214-5201f496-13ae-45aa-b11c-3e8fca69538c.png">](https://drive.google.com/open?id=1X80zxE1I9S2U3AOO8jlzwZ0CZFZE3Roe)
+https://github.com/eynavbe/TourismSwift2019/assets/93534494/78346d43-16c3-4480-9775-c513914560fd
+
 
 
 The project was originally uploaded to my github, eynavapp:
